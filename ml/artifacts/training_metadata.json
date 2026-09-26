@@ -1,0 +1,214 @@
+{
+  "best_model": "GradientBoosting",
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "features": {
+    "all": [
+      "Location",
+      "Weather",
+      "Road_Condition",
+      "Road_Type",
+      "Temperature",
+      "Visibility_km",
+      "Local_Event",
+      "Is_Holiday",
+      "Accident_Reported",
+      "AQI_Level",
+      "Hour",
+      "DayOfWeek",
+      "Month",
+      "Lanes",
+      "Road_Capacity_veh_hr",
+      "Rainfall_mm",
+      "Is_Weekend",
+      "Peak_Hour",
+      "Previous_Hour_Traffic",
+      "Rolling_3_Hour_Avg_Traffic",
+      "Traffic_Change_Percent"
+    ],
+    "categorical": [
+      "Location",
+      "Weather",
+      "Road_Condition",
+      "Road_Type"
+    ],
+    "numerical": [
+      "Temperature",
+      "Visibility_km",
+      "Local_Event",
+      "Is_Holiday",
+      "Accident_Reported",
+      "AQI_Level",
+      "Hour",
+      "DayOfWeek",
+      "Month",
+      "Lanes",
+      "Road_Capacity_veh_hr",
+      "Rainfall_mm",
+      "Is_Weekend",
+      "Peak_Hour",
+      "Previous_Hour_Traffic",
+      "Rolling_3_Hour_Avg_Traffic",
+      "Traffic_Change_Percent"
+    ],
+    "transformed": [
+      "Location_City Center",
+      "Location_Highway Exit",
+      "Location_MG Road",
+      "Location_Market Area",
+      "Location_Railway Station",
+      "Location_Tech Park",
+      "Location_Vignan University Gate",
+      "Weather_Clear",
+      "Weather_Foggy",
+      "Weather_Heavy Rain",
+      "Weather_Rainy",
+      "Weather_Sunny",
+      "Road_Condition_Construction",
+      "Road_Condition_Good",
+      "Road_Condition_Potholes",
+      "Road_Condition_Waterlogging",
+      "Road_Type_Highway",
+      "Road_Type_Urban",
+      "Temperature",
+      "Visibility_km",
+      "Local_Event",
+      "Is_Holiday",
+      "Accident_Reported",
+      "AQI_Level",
+      "Hour",
+      "DayOfWeek",
+      "Month",
+      "Lanes",
+      "Road_Capacity_veh_hr",
+      "Rainfall_mm",
+      "Is_Weekend",
+      "Peak_Hour",
+      "Previous_Hour_Traffic",
+      "Rolling_3_Hour_Avg_Traffic",
+      "Traffic_Change_Percent"
+    ]
+  },
+  "performance": {
+    "RandomForest": {
+      "accuracy": 0.9912,
+      "weighted_f1": 0.9912101994760122,
+      "macro_f1": 0.9866450385269188
+    },
+    "GradientBoosting": {
+      "accuracy": 0.9996,
+      "weighted_f1": 0.9996000354868658,
+      "macro_f1": 0.9994390246707258
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "Peak_Hour",
+      "importance": 0.1603,
+      "percentage": 16.03
+    },
+    {
+      "feature": "Road_Condition",
+      "importance": 0.1335,
+      "percentage": 13.35
+    },
+    {
+      "feature": "Accident_Reported",
+      "importance": 0.1266,
+      "percentage": 12.66
+    },
+    {
+      "feature": "Weather",
+      "importance": 0.0995,
+      "percentage": 9.95
+    },
+    {
+      "feature": "Hour",
+      "importance": 0.094,
+      "percentage": 9.4
+    },
+    {
+      "feature": "Rainfall_mm",
+      "importance": 0.0899,
+      "percentage": 8.99
+    },
+    {
+      "feature": "Local_Event",
+      "importance": 0.0645,
+      "percentage": 6.45
+    },
+    {
+      "feature": "Visibility_km",
+      "importance": 0.0629,
+      "percentage": 6.29
+    },
+    {
+      "feature": "Traffic_Change_Percent",
+      "importance": 0.0498,
+      "percentage": 4.98
+    },
+    {
+      "feature": "Is_Holiday",
+      "importance": 0.0258,
+      "percentage": 2.58
+    },
+    {
+      "feature": "Previous_Hour_Traffic",
+      "importance": 0.0167,
+      "percentage": 1.67
+    },
+    {
+      "feature": "Temperature",
+      "importance": 0.015,
+      "percentage": 1.5
+    },
+    {
+      "feature": "Rolling_3_Hour_Avg_Traffic",
+      "importance": 0.0149,
+      "percentage": 1.49
+    },
+    {
+      "feature": "AQI_Level",
+      "importance": 0.0142,
+      "percentage": 1.42
+    },
+    {
+      "feature": "Month",
+      "importance": 0.009,
+      "percentage": 0.9
+    },
+    {
+      "feature": "Location",
+      "importance": 0.0072,
+      "percentage": 0.72
+    },
+    {
+      "feature": "DayOfWeek",
+      "importance": 0.007,
+      "percentage": 0.7
+    },
+    {
+      "feature": "Road_Capacity_veh_hr",
+      "importance": 0.004,
+      "percentage": 0.4
+    },
+    {
+      "feature": "Lanes",
+      "importance": 0.0021,
+      "percentage": 0.21
+    },
+    {
+      "feature": "Is_Weekend",
+      "importance": 0.0017,
+      "percentage": 0.17
+    },
+    {
+      "feature": "Road_Type",
+      "importance": 0.0012,
+      "percentage": 0.12
+    }
+  ]
+}

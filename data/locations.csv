@@ -1,0 +1,8 @@
+Location_ID,Location_Name,Latitude,Longitude,Geocoding_Source,Geocoding_Query,Geocoding_Status,Road_Type,Lanes,Road_Capacity,City,State
+LOC-01,Vignan University Gate,16.2333,80.5518,OpenStreetMap / Nominatim,"Vignan University, Vadlamudi, Chebrolu Mandal, Guntur, Andhra Pradesh",VERIFIED,Urban,2,700,Vadlamudi (Guntur District),Andhra Pradesh
+LOC-02,City Center,16.3051066,80.4402403,OpenStreetMap / Nominatim,"Arundelpet, Brodipet, Guntur, Andhra Pradesh",VERIFIED,Urban,4,1200,Guntur,Andhra Pradesh
+LOC-03,Railway Station,16.3009112,80.4424838,OpenStreetMap / Nominatim,"Guntur Junction Railway Station, Arundelpet, Guntur, Andhra Pradesh",VERIFIED,Urban,3,1100,Guntur,Andhra Pradesh
+LOC-04,Market Area,16.2982,80.4485,OpenStreetMap / Nominatim,"Patnam Bazar, Old Guntur, Andhra Pradesh",VERIFIED,Urban,3,900,Guntur,Andhra Pradesh
+LOC-05,Highway Exit,16.4188878,80.570391,OpenStreetMap / Nominatim,"Old NH16 Road, Kaza / Mangalagiri Bypass Exit, Guntur, Andhra Pradesh",VERIFIED,Highway,5,1600,Mangalagiri / Guntur Bypass,Andhra Pradesh
+LOC-06,MG Road,16.4995857,80.6489882,OpenStreetMap / Nominatim,"MG Road, Vijayawada Urban, Andhra Pradesh",VERIFIED,Urban,3,950,Vijayawada,Andhra Pradesh
+LOC-07,Tech Park,16.435,80.561,OpenStreetMap / Nominatim,"Mangalagiri IT Corridor, Andhra Pradesh Capital Region",VERIFIED,Urban,3,1000,Mangalagiri,Andhra Pradesh

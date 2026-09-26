@@ -1,0 +1,1682 @@
+{
+  "City Center_0_0": {
+    "Previous_Hour_Traffic": 468.0,
+    "Rolling_3_Hour_Avg_Traffic": 419.58,
+    "Traffic_Change_Percent": -31.61
+  },
+  "City Center_0_1": {
+    "Previous_Hour_Traffic": 456.0,
+    "Rolling_3_Hour_Avg_Traffic": 456.58,
+    "Traffic_Change_Percent": -20.27
+  },
+  "City Center_1_0": {
+    "Previous_Hour_Traffic": 447.5,
+    "Rolling_3_Hour_Avg_Traffic": 410.375,
+    "Traffic_Change_Percent": -32.02
+  },
+  "City Center_1_1": {
+    "Previous_Hour_Traffic": 454.0,
+    "Rolling_3_Hour_Avg_Traffic": 449.5,
+    "Traffic_Change_Percent": -12.63
+  },
+  "City Center_2_0": {
+    "Previous_Hour_Traffic": 392.0,
+    "Rolling_3_Hour_Avg_Traffic": 404.83500000000004,
+    "Traffic_Change_Percent": -20.37
+  },
+  "City Center_2_1": {
+    "Previous_Hour_Traffic": 451.0,
+    "Rolling_3_Hour_Avg_Traffic": 448.33,
+    "Traffic_Change_Percent": -15.6
+  },
+  "City Center_3_0": {
+    "Previous_Hour_Traffic": 347.0,
+    "Rolling_3_Hour_Avg_Traffic": 406.25,
+    "Traffic_Change_Percent": -12.05
+  },
+  "City Center_3_1": {
+    "Previous_Hour_Traffic": 467.0,
+    "Rolling_3_Hour_Avg_Traffic": 436.25,
+    "Traffic_Change_Percent": -16.33
+  },
+  "City Center_4_0": {
+    "Previous_Hour_Traffic": 346.5,
+    "Rolling_3_Hour_Avg_Traffic": 401.875,
+    "Traffic_Change_Percent": -15.695
+  },
+  "City Center_4_1": {
+    "Previous_Hour_Traffic": 409.0,
+    "Rolling_3_Hour_Avg_Traffic": 437.83,
+    "Traffic_Change_Percent": -4.9
+  },
+  "City Center_5_0": {
+    "Previous_Hour_Traffic": 327.5,
+    "Rolling_3_Hour_Avg_Traffic": 384.71000000000004,
+    "Traffic_Change_Percent": -7.83
+  },
+  "City Center_5_1": {
+    "Previous_Hour_Traffic": 403.0,
+    "Rolling_3_Hour_Avg_Traffic": 444.875,
+    "Traffic_Change_Percent": -6.28
+  },
+  "City Center_6_0": {
+    "Previous_Hour_Traffic": 330.0,
+    "Rolling_3_Hour_Avg_Traffic": 393.5,
+    "Traffic_Change_Percent": -7.78
+  },
+  "City Center_6_1": {
+    "Previous_Hour_Traffic": 399.0,
+    "Rolling_3_Hour_Avg_Traffic": 434.5,
+    "Traffic_Change_Percent": 0.96
+  },
+  "City Center_7_0": {
+    "Previous_Hour_Traffic": 318.0,
+    "Rolling_3_Hour_Avg_Traffic": 387.42,
+    "Traffic_Change_Percent": 71.32
+  },
+  "City Center_7_1": {
+    "Previous_Hour_Traffic": 374.0,
+    "Rolling_3_Hour_Avg_Traffic": 433.545,
+    "Traffic_Change_Percent": 64.66499999999999
+  },
+  "City Center_8_0": {
+    "Previous_Hour_Traffic": 309.0,
+    "Rolling_3_Hour_Avg_Traffic": 390.42,
+    "Traffic_Change_Percent": 77.89
+  },
+  "City Center_8_1": {
+    "Previous_Hour_Traffic": 402.5,
+    "Rolling_3_Hour_Avg_Traffic": 448.03999999999996,
+    "Traffic_Change_Percent": 58.855
+  },
+  "City Center_9_0": {
+    "Previous_Hour_Traffic": 327.0,
+    "Rolling_3_Hour_Avg_Traffic": 393.96000000000004,
+    "Traffic_Change_Percent": 69.545
+  },
+  "City Center_9_1": {
+    "Previous_Hour_Traffic": 393.0,
+    "Rolling_3_Hour_Avg_Traffic": 444.17,
+    "Traffic_Change_Percent": 64.1
+  },
+  "City Center_10_0": {
+    "Previous_Hour_Traffic": 320.0,
+    "Rolling_3_Hour_Avg_Traffic": 406.75,
+    "Traffic_Change_Percent": 74.32
+  },
+  "City Center_10_1": {
+    "Previous_Hour_Traffic": 400.5,
+    "Rolling_3_Hour_Avg_Traffic": 459.5,
+    "Traffic_Change_Percent": 61.370000000000005
+  },
+  "City Center_11_0": {
+    "Previous_Hour_Traffic": 360.0,
+    "Rolling_3_Hour_Avg_Traffic": 409.5,
+    "Traffic_Change_Percent": -18.4
+  },
+  "City Center_11_1": {
+    "Previous_Hour_Traffic": 446.0,
+    "Rolling_3_Hour_Avg_Traffic": 463.58,
+    "Traffic_Change_Percent": -11.24
+  },
+  "City Center_12_0": {
+    "Previous_Hour_Traffic": 358.5,
+    "Rolling_3_Hour_Avg_Traffic": 398.875,
+    "Traffic_Change_Percent": -19.645
+  },
+  "City Center_12_1": {
+    "Previous_Hour_Traffic": 467.0,
+    "Rolling_3_Hour_Avg_Traffic": 457.41499999999996,
+    "Traffic_Change_Percent": -21.525
+  },
+  "City Center_13_0": {
+    "Previous_Hour_Traffic": 404.0,
+    "Rolling_3_Hour_Avg_Traffic": 390.08,
+    "Traffic_Change_Percent": -26.92
+  },
+  "City Center_13_1": {
+    "Previous_Hour_Traffic": 500.0,
+    "Rolling_3_Hour_Avg_Traffic": 449.83,
+    "Traffic_Change_Percent": -21.1
+  },
+  "City Center_14_0": {
+    "Previous_Hour_Traffic": 433.0,
+    "Rolling_3_Hour_Avg_Traffic": 386.545,
+    "Traffic_Change_Percent": -30.525
+  },
+  "City Center_14_1": {
+    "Previous_Hour_Traffic": 555.0,
+    "Rolling_3_Hour_Avg_Traffic": 454.25,
+    "Traffic_Change_Percent": -23.91
+  },
+  "City Center_15_0": {
+    "Previous_Hour_Traffic": 460.0,
+    "Rolling_3_Hour_Avg_Traffic": 384.375,
+    "Traffic_Change_Percent": -29.585
+  },
+  "City Center_15_1": {
+    "Previous_Hour_Traffic": 519.0,
+    "Rolling_3_Hour_Avg_Traffic": 454.75,
+    "Traffic_Change_Percent": -24.13
+  },
+  "City Center_16_0": {
+    "Previous_Hour_Traffic": 404.5,
+    "Rolling_3_Hour_Avg_Traffic": 379.67,
+    "Traffic_Change_Percent": -26.575
+  },
+  "City Center_16_1": {
+    "Previous_Hour_Traffic": 489.5,
+    "Rolling_3_Hour_Avg_Traffic": 451.125,
+    "Traffic_Change_Percent": -20.115000000000002
+  },
+  "City Center_17_0": {
+    "Previous_Hour_Traffic": 372.0,
+    "Rolling_3_Hour_Avg_Traffic": 380.67,
+    "Traffic_Change_Percent": 47.2
+  },
+  "City Center_17_1": {
+    "Previous_Hour_Traffic": 421.0,
+    "Rolling_3_Hour_Avg_Traffic": 456.53999999999996,
+    "Traffic_Change_Percent": 52.685
+  },
+  "City Center_18_0": {
+    "Previous_Hour_Traffic": 334.0,
+    "Rolling_3_Hour_Avg_Traffic": 383.83,
+    "Traffic_Change_Percent": 60.97
+  },
+  "City Center_18_1": {
+    "Previous_Hour_Traffic": 406.0,
+    "Rolling_3_Hour_Avg_Traffic": 471.83,
+    "Traffic_Change_Percent": 58.33
+  },
+  "City Center_19_0": {
+    "Previous_Hour_Traffic": 335.0,
+    "Rolling_3_Hour_Avg_Traffic": 401.33,
+    "Traffic_Change_Percent": 60.11
+  },
+  "City Center_19_1": {
+    "Previous_Hour_Traffic": 442.5,
+    "Rolling_3_Hour_Avg_Traffic": 478.625,
+    "Traffic_Change_Percent": 42.2
+  },
+  "City Center_20_0": {
+    "Previous_Hour_Traffic": 367.0,
+    "Rolling_3_Hour_Avg_Traffic": 410.83,
+    "Traffic_Change_Percent": 50.99
+  },
+  "City Center_20_1": {
+    "Previous_Hour_Traffic": 431.0,
+    "Rolling_3_Hour_Avg_Traffic": 490.46000000000004,
+    "Traffic_Change_Percent": 47.345
+  },
+  "City Center_21_0": {
+    "Previous_Hour_Traffic": 354.0,
+    "Rolling_3_Hour_Avg_Traffic": 414.08,
+    "Traffic_Change_Percent": -15.26
+  },
+  "City Center_21_1": {
+    "Previous_Hour_Traffic": 440.0,
+    "Rolling_3_Hour_Avg_Traffic": 491.92,
+    "Traffic_Change_Percent": -19.04
+  },
+  "City Center_22_0": {
+    "Previous_Hour_Traffic": 362.0,
+    "Rolling_3_Hour_Avg_Traffic": 405.875,
+    "Traffic_Change_Percent": -22.795
+  },
+  "City Center_22_1": {
+    "Previous_Hour_Traffic": 488.0,
+    "Rolling_3_Hour_Avg_Traffic": 488.42,
+    "Traffic_Change_Percent": -22.27
+  },
+  "City Center_23_0": {
+    "Previous_Hour_Traffic": 455.5,
+    "Rolling_3_Hour_Avg_Traffic": 411.78999999999996,
+    "Traffic_Change_Percent": -33.635000000000005
+  },
+  "City Center_23_1": {
+    "Previous_Hour_Traffic": 598.0,
+    "Rolling_3_Hour_Avg_Traffic": 492.75,
+    "Traffic_Change_Percent": -29.07
+  },
+  "Highway Exit_0_0": {
+    "Previous_Hour_Traffic": 726.0,
+    "Rolling_3_Hour_Avg_Traffic": 598.17,
+    "Traffic_Change_Percent": -36.05
+  },
+  "Highway Exit_0_1": {
+    "Previous_Hour_Traffic": 678.0,
+    "Rolling_3_Hour_Avg_Traffic": 634.58,
+    "Traffic_Change_Percent": -19.87
+  },
+  "Highway Exit_1_0": {
+    "Previous_Hour_Traffic": 604.5,
+    "Rolling_3_Hour_Avg_Traffic": 588.71,
+    "Traffic_Change_Percent": -28.244999999999997
+  },
+  "Highway Exit_1_1": {
+    "Previous_Hour_Traffic": 746.0,
+    "Rolling_3_Hour_Avg_Traffic": 626.58,
+    "Traffic_Change_Percent": -21.02
+  },
+  "Highway Exit_2_0": {
+    "Previous_Hour_Traffic": 612.0,
+    "Rolling_3_Hour_Avg_Traffic": 596.79,
+    "Traffic_Change_Percent": -33.925
+  },
+  "Highway Exit_2_1": {
+    "Previous_Hour_Traffic": 577.0,
+    "Rolling_3_Hour_Avg_Traffic": 625.545,
+    "Traffic_Change_Percent": -7.89
+  },
+  "Highway Exit_3_0": {
+    "Previous_Hour_Traffic": 549.5,
+    "Rolling_3_Hour_Avg_Traffic": 584.085,
+    "Traffic_Change_Percent": -25.119999999999997
+  },
+  "Highway Exit_3_1": {
+    "Previous_Hour_Traffic": 563.0,
+    "Rolling_3_Hour_Avg_Traffic": 623.67,
+    "Traffic_Change_Percent": -3.02
+  },
+  "Highway Exit_4_0": {
+    "Previous_Hour_Traffic": 489.5,
+    "Rolling_3_Hour_Avg_Traffic": 559.125,
+    "Traffic_Change_Percent": -10.190000000000001
+  },
+  "Highway Exit_4_1": {
+    "Previous_Hour_Traffic": 577.0,
+    "Rolling_3_Hour_Avg_Traffic": 622.42,
+    "Traffic_Change_Percent": 0.0
+  },
+  "Highway Exit_5_0": {
+    "Previous_Hour_Traffic": 471.0,
+    "Rolling_3_Hour_Avg_Traffic": 559.25,
+    "Traffic_Change_Percent": -12.725000000000001
+  },
+  "Highway Exit_5_1": {
+    "Previous_Hour_Traffic": 530.0,
+    "Rolling_3_Hour_Avg_Traffic": 615.75,
+    "Traffic_Change_Percent": 4.0
+  },
+  "Highway Exit_6_0": {
+    "Previous_Hour_Traffic": 470.0,
+    "Rolling_3_Hour_Avg_Traffic": 550.665,
+    "Traffic_Change_Percent": -6.390000000000001
+  },
+  "Highway Exit_6_1": {
+    "Previous_Hour_Traffic": 574.0,
+    "Rolling_3_Hour_Avg_Traffic": 614.67,
+    "Traffic_Change_Percent": -3.92
+  },
+  "Highway Exit_7_0": {
+    "Previous_Hour_Traffic": 459.0,
+    "Rolling_3_Hour_Avg_Traffic": 558.5,
+    "Traffic_Change_Percent": 74.29
+  },
+  "Highway Exit_7_1": {
+    "Previous_Hour_Traffic": 551.0,
+    "Rolling_3_Hour_Avg_Traffic": 630.92,
+    "Traffic_Change_Percent": 65.16
+  },
+  "Highway Exit_8_0": {
+    "Previous_Hour_Traffic": 463.0,
+    "Rolling_3_Hour_Avg_Traffic": 566.75,
+    "Traffic_Change_Percent": 71.46
+  },
+  "Highway Exit_8_1": {
+    "Previous_Hour_Traffic": 573.0,
+    "Rolling_3_Hour_Avg_Traffic": 627.375,
+    "Traffic_Change_Percent": 65.46000000000001
+  },
+  "Highway Exit_9_0": {
+    "Previous_Hour_Traffic": 457.0,
+    "Rolling_3_Hour_Avg_Traffic": 585.625,
+    "Traffic_Change_Percent": 72.215
+  },
+  "Highway Exit_9_1": {
+    "Previous_Hour_Traffic": 555.0,
+    "Rolling_3_Hour_Avg_Traffic": 644.25,
+    "Traffic_Change_Percent": 67.255
+  },
+  "Highway Exit_10_0": {
+    "Previous_Hour_Traffic": 452.0,
+    "Rolling_3_Hour_Avg_Traffic": 589.585,
+    "Traffic_Change_Percent": 72.94
+  },
+  "Highway Exit_10_1": {
+    "Previous_Hour_Traffic": 579.0,
+    "Rolling_3_Hour_Avg_Traffic": 643.5,
+    "Traffic_Change_Percent": 64.72999999999999
+  },
+  "Highway Exit_11_0": {
+    "Previous_Hour_Traffic": 490.5,
+    "Rolling_3_Hour_Avg_Traffic": 590.5,
+    "Traffic_Change_Percent": -14.3
+  },
+  "Highway Exit_11_1": {
+    "Previous_Hour_Traffic": 581.0,
+    "Rolling_3_Hour_Avg_Traffic": 671.08,
+    "Traffic_Change_Percent": -4.73
+  },
+  "Highway Exit_12_0": {
+    "Previous_Hour_Traffic": 478.0,
+    "Rolling_3_Hour_Avg_Traffic": 581.67,
+    "Traffic_Change_Percent": -10.38
+  },
+  "Highway Exit_12_1": {
+    "Previous_Hour_Traffic": 588.0,
+    "Rolling_3_Hour_Avg_Traffic": 639.5,
+    "Traffic_Change_Percent": -10.53
+  },
+  "Highway Exit_13_0": {
+    "Previous_Hour_Traffic": 527.5,
+    "Rolling_3_Hour_Avg_Traffic": 571.295,
+    "Traffic_Change_Percent": -22.39
+  },
+  "Highway Exit_13_1": {
+    "Previous_Hour_Traffic": 678.5,
+    "Rolling_3_Hour_Avg_Traffic": 658.46,
+    "Traffic_Change_Percent": -19.075
+  },
+  "Highway Exit_14_0": {
+    "Previous_Hour_Traffic": 603.0,
+    "Rolling_3_Hour_Avg_Traffic": 564.92,
+    "Traffic_Change_Percent": -26.85
+  },
+  "Highway Exit_14_1": {
+    "Previous_Hour_Traffic": 774.0,
+    "Rolling_3_Hour_Avg_Traffic": 663.42,
+    "Traffic_Change_Percent": -26.56
+  },
+  "Highway Exit_15_0": {
+    "Previous_Hour_Traffic": 681.5,
+    "Rolling_3_Hour_Avg_Traffic": 572.705,
+    "Traffic_Change_Percent": -30.1
+  },
+  "Highway Exit_15_1": {
+    "Previous_Hour_Traffic": 714.5,
+    "Rolling_3_Hour_Avg_Traffic": 673.585,
+    "Traffic_Change_Percent": -25.42
+  },
+  "Highway Exit_16_0": {
+    "Previous_Hour_Traffic": 542.0,
+    "Rolling_3_Hour_Avg_Traffic": 558.835,
+    "Traffic_Change_Percent": -21.314999999999998
+  },
+  "Highway Exit_16_1": {
+    "Previous_Hour_Traffic": 637.0,
+    "Rolling_3_Hour_Avg_Traffic": 649.08,
+    "Traffic_Change_Percent": -15.86
+  },
+  "Highway Exit_17_0": {
+    "Previous_Hour_Traffic": 540.0,
+    "Rolling_3_Hour_Avg_Traffic": 559.58,
+    "Traffic_Change_Percent": 42.73
+  },
+  "Highway Exit_17_1": {
+    "Previous_Hour_Traffic": 614.5,
+    "Rolling_3_Hour_Avg_Traffic": 650.21,
+    "Traffic_Change_Percent": 50.975
+  },
+  "Highway Exit_18_0": {
+    "Previous_Hour_Traffic": 484.5,
+    "Rolling_3_Hour_Avg_Traffic": 575.085,
+    "Traffic_Change_Percent": 65.91
+  },
+  "Highway Exit_18_1": {
+    "Previous_Hour_Traffic": 608.5,
+    "Rolling_3_Hour_Avg_Traffic": 664.25,
+    "Traffic_Change_Percent": 58.55500000000001
+  },
+  "Highway Exit_19_0": {
+    "Previous_Hour_Traffic": 470.0,
+    "Rolling_3_Hour_Avg_Traffic": 594.08,
+    "Traffic_Change_Percent": 68.08
+  },
+  "Highway Exit_19_1": {
+    "Previous_Hour_Traffic": 610.0,
+    "Rolling_3_Hour_Avg_Traffic": 679.875,
+    "Traffic_Change_Percent": 50.04
+  },
+  "Highway Exit_20_0": {
+    "Previous_Hour_Traffic": 494.0,
+    "Rolling_3_Hour_Avg_Traffic": 606.92,
+    "Traffic_Change_Percent": 57.31
+  },
+  "Highway Exit_20_1": {
+    "Previous_Hour_Traffic": 579.0,
+    "Rolling_3_Hour_Avg_Traffic": 695.5,
+    "Traffic_Change_Percent": 59.02
+  },
+  "Highway Exit_21_0": {
+    "Previous_Hour_Traffic": 505.0,
+    "Rolling_3_Hour_Avg_Traffic": 599.0,
+    "Traffic_Change_Percent": -17.53
+  },
+  "Highway Exit_21_1": {
+    "Previous_Hour_Traffic": 609.0,
+    "Rolling_3_Hour_Avg_Traffic": 704.08,
+    "Traffic_Change_Percent": -10.67
+  },
+  "Highway Exit_22_0": {
+    "Previous_Hour_Traffic": 578.0,
+    "Rolling_3_Hour_Avg_Traffic": 588.83,
+    "Traffic_Change_Percent": -26.94
+  },
+  "Highway Exit_22_1": {
+    "Previous_Hour_Traffic": 602.0,
+    "Rolling_3_Hour_Avg_Traffic": 701.08,
+    "Traffic_Change_Percent": -13.09
+  },
+  "Highway Exit_23_0": {
+    "Previous_Hour_Traffic": 606.0,
+    "Rolling_3_Hour_Avg_Traffic": 583.25,
+    "Traffic_Change_Percent": -29.81
+  },
+  "Highway Exit_23_1": {
+    "Previous_Hour_Traffic": 810.0,
+    "Rolling_3_Hour_Avg_Traffic": 695.75,
+    "Traffic_Change_Percent": -27.81
+  },
+  "MG Road_0_0": {
+    "Previous_Hour_Traffic": 312.0,
+    "Rolling_3_Hour_Avg_Traffic": 279.375,
+    "Traffic_Change_Percent": -26.72
+  },
+  "MG Road_0_1": {
+    "Previous_Hour_Traffic": 323.0,
+    "Rolling_3_Hour_Avg_Traffic": 299.75,
+    "Traffic_Change_Percent": -17.54
+  },
+  "MG Road_1_0": {
+    "Previous_Hour_Traffic": 321.5,
+    "Rolling_3_Hour_Avg_Traffic": 280.705,
+    "Traffic_Change_Percent": -32.665
+  },
+  "MG Road_1_1": {
+    "Previous_Hour_Traffic": 337.5,
+    "Rolling_3_Hour_Avg_Traffic": 295.125,
+    "Traffic_Change_Percent": -14.51
+  },
+  "MG Road_2_0": {
+    "Previous_Hour_Traffic": 267.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.42,
+    "Traffic_Change_Percent": -23.59
+  },
+  "MG Road_2_1": {
+    "Previous_Hour_Traffic": 335.0,
+    "Rolling_3_Hour_Avg_Traffic": 306.5,
+    "Traffic_Change_Percent": -15.49
+  },
+  "MG Road_3_0": {
+    "Previous_Hour_Traffic": 271.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.515,
+    "Traffic_Change_Percent": -25.939999999999998
+  },
+  "MG Road_3_1": {
+    "Previous_Hour_Traffic": 320.5,
+    "Rolling_3_Hour_Avg_Traffic": 299.75,
+    "Traffic_Change_Percent": -15.055
+  },
+  "MG Road_4_0": {
+    "Previous_Hour_Traffic": 262.0,
+    "Rolling_3_Hour_Avg_Traffic": 267.125,
+    "Traffic_Change_Percent": -22.26
+  },
+  "MG Road_4_1": {
+    "Previous_Hour_Traffic": 282.0,
+    "Rolling_3_Hour_Avg_Traffic": 296.33,
+    "Traffic_Change_Percent": 3.7
+  },
+  "MG Road_5_0": {
+    "Previous_Hour_Traffic": 250.0,
+    "Rolling_3_Hour_Avg_Traffic": 266.25,
+    "Traffic_Change_Percent": -20.18
+  },
+  "MG Road_5_1": {
+    "Previous_Hour_Traffic": 275.0,
+    "Rolling_3_Hour_Avg_Traffic": 300.0,
+    "Traffic_Change_Percent": 1.18
+  },
+  "MG Road_6_0": {
+    "Previous_Hour_Traffic": 234.0,
+    "Rolling_3_Hour_Avg_Traffic": 262.08,
+    "Traffic_Change_Percent": -12.5
+  },
+  "MG Road_6_1": {
+    "Previous_Hour_Traffic": 280.5,
+    "Rolling_3_Hour_Avg_Traffic": 295.0,
+    "Traffic_Change_Percent": 0.275
+  },
+  "MG Road_7_0": {
+    "Previous_Hour_Traffic": 224.5,
+    "Rolling_3_Hour_Avg_Traffic": 257.66499999999996,
+    "Traffic_Change_Percent": 72.02
+  },
+  "MG Road_7_1": {
+    "Previous_Hour_Traffic": 267.0,
+    "Rolling_3_Hour_Avg_Traffic": 300.33,
+    "Traffic_Change_Percent": 63.31
+  },
+  "MG Road_8_0": {
+    "Previous_Hour_Traffic": 216.0,
+    "Rolling_3_Hour_Avg_Traffic": 264.03999999999996,
+    "Traffic_Change_Percent": 77.265
+  },
+  "MG Road_8_1": {
+    "Previous_Hour_Traffic": 262.0,
+    "Rolling_3_Hour_Avg_Traffic": 308.08,
+    "Traffic_Change_Percent": 66.53
+  },
+  "MG Road_9_0": {
+    "Previous_Hour_Traffic": 205.0,
+    "Rolling_3_Hour_Avg_Traffic": 266.67,
+    "Traffic_Change_Percent": 81.25
+  },
+  "MG Road_9_1": {
+    "Previous_Hour_Traffic": 278.0,
+    "Rolling_3_Hour_Avg_Traffic": 310.92,
+    "Traffic_Change_Percent": 58.16
+  },
+  "MG Road_10_0": {
+    "Previous_Hour_Traffic": 210.0,
+    "Rolling_3_Hour_Avg_Traffic": 273.92,
+    "Traffic_Change_Percent": 83.66
+  },
+  "MG Road_10_1": {
+    "Previous_Hour_Traffic": 292.0,
+    "Rolling_3_Hour_Avg_Traffic": 320.58,
+    "Traffic_Change_Percent": 45.66
+  },
+  "MG Road_11_0": {
+    "Previous_Hour_Traffic": 227.0,
+    "Rolling_3_Hour_Avg_Traffic": 282.75,
+    "Traffic_Change_Percent": -15.52
+  },
+  "MG Road_11_1": {
+    "Previous_Hour_Traffic": 309.0,
+    "Rolling_3_Hour_Avg_Traffic": 326.5,
+    "Traffic_Change_Percent": -16.545
+  },
+  "MG Road_12_0": {
+    "Previous_Hour_Traffic": 274.0,
+    "Rolling_3_Hour_Avg_Traffic": 271.25,
+    "Traffic_Change_Percent": -22.58
+  },
+  "MG Road_12_1": {
+    "Previous_Hour_Traffic": 336.5,
+    "Rolling_3_Hour_Avg_Traffic": 322.28999999999996,
+    "Traffic_Change_Percent": -21.675
+  },
+  "MG Road_13_0": {
+    "Previous_Hour_Traffic": 287.0,
+    "Rolling_3_Hour_Avg_Traffic": 269.5,
+    "Traffic_Change_Percent": -28.88
+  },
+  "MG Road_13_1": {
+    "Previous_Hour_Traffic": 379.0,
+    "Rolling_3_Hour_Avg_Traffic": 322.0,
+    "Traffic_Change_Percent": -27.4
+  },
+  "MG Road_14_0": {
+    "Previous_Hour_Traffic": 276.0,
+    "Rolling_3_Hour_Avg_Traffic": 271.375,
+    "Traffic_Change_Percent": -30.23
+  },
+  "MG Road_14_1": {
+    "Previous_Hour_Traffic": 369.0,
+    "Rolling_3_Hour_Avg_Traffic": 314.58,
+    "Traffic_Change_Percent": -25.0
+  },
+  "MG Road_15_0": {
+    "Previous_Hour_Traffic": 259.0,
+    "Rolling_3_Hour_Avg_Traffic": 263.42,
+    "Traffic_Change_Percent": -20.9
+  },
+  "MG Road_15_1": {
+    "Previous_Hour_Traffic": 326.0,
+    "Rolling_3_Hour_Avg_Traffic": 312.33,
+    "Traffic_Change_Percent": -19.92
+  },
+  "MG Road_16_0": {
+    "Previous_Hour_Traffic": 263.0,
+    "Rolling_3_Hour_Avg_Traffic": 260.03999999999996,
+    "Traffic_Change_Percent": -20.11
+  },
+  "MG Road_16_1": {
+    "Previous_Hour_Traffic": 303.0,
+    "Rolling_3_Hour_Avg_Traffic": 310.125,
+    "Traffic_Change_Percent": -16.02
+  },
+  "MG Road_17_0": {
+    "Previous_Hour_Traffic": 259.0,
+    "Rolling_3_Hour_Avg_Traffic": 259.08,
+    "Traffic_Change_Percent": 47.04
+  },
+  "MG Road_17_1": {
+    "Previous_Hour_Traffic": 310.0,
+    "Rolling_3_Hour_Avg_Traffic": 316.83,
+    "Traffic_Change_Percent": 33.769999999999996
+  },
+  "MG Road_18_0": {
+    "Previous_Hour_Traffic": 227.0,
+    "Rolling_3_Hour_Avg_Traffic": 261.83,
+    "Traffic_Change_Percent": 67.39
+  },
+  "MG Road_18_1": {
+    "Previous_Hour_Traffic": 307.5,
+    "Rolling_3_Hour_Avg_Traffic": 317.5,
+    "Traffic_Change_Percent": 47.17
+  },
+  "MG Road_19_0": {
+    "Previous_Hour_Traffic": 230.0,
+    "Rolling_3_Hour_Avg_Traffic": 267.795,
+    "Traffic_Change_Percent": 72.935
+  },
+  "MG Road_19_1": {
+    "Previous_Hour_Traffic": 290.0,
+    "Rolling_3_Hour_Avg_Traffic": 326.125,
+    "Traffic_Change_Percent": 50.96
+  },
+  "MG Road_20_0": {
+    "Previous_Hour_Traffic": 219.0,
+    "Rolling_3_Hour_Avg_Traffic": 273.08,
+    "Traffic_Change_Percent": 72.0
+  },
+  "MG Road_20_1": {
+    "Previous_Hour_Traffic": 331.0,
+    "Rolling_3_Hour_Avg_Traffic": 335.625,
+    "Traffic_Change_Percent": 36.67
+  },
+  "MG Road_21_0": {
+    "Previous_Hour_Traffic": 245.0,
+    "Rolling_3_Hour_Avg_Traffic": 280.92,
+    "Traffic_Change_Percent": -17.6
+  },
+  "MG Road_21_1": {
+    "Previous_Hour_Traffic": 305.0,
+    "Rolling_3_Hour_Avg_Traffic": 333.0,
+    "Traffic_Change_Percent": -10.57
+  },
+  "MG Road_22_0": {
+    "Previous_Hour_Traffic": 257.0,
+    "Rolling_3_Hour_Avg_Traffic": 277.16499999999996,
+    "Traffic_Change_Percent": -18.244999999999997
+  },
+  "MG Road_22_1": {
+    "Previous_Hour_Traffic": 335.0,
+    "Rolling_3_Hour_Avg_Traffic": 331.25,
+    "Traffic_Change_Percent": -23.08
+  },
+  "MG Road_23_0": {
+    "Previous_Hour_Traffic": 287.0,
+    "Rolling_3_Hour_Avg_Traffic": 276.83,
+    "Traffic_Change_Percent": -23.85
+  },
+  "MG Road_23_1": {
+    "Previous_Hour_Traffic": 322.5,
+    "Rolling_3_Hour_Avg_Traffic": 330.125,
+    "Traffic_Change_Percent": -18.915
+  },
+  "Market Area_0_0": {
+    "Previous_Hour_Traffic": 289.0,
+    "Rolling_3_Hour_Avg_Traffic": 254.67,
+    "Traffic_Change_Percent": -28.16
+  },
+  "Market Area_0_1": {
+    "Previous_Hour_Traffic": 274.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.625,
+    "Traffic_Change_Percent": -19.5
+  },
+  "Market Area_1_0": {
+    "Previous_Hour_Traffic": 261.0,
+    "Rolling_3_Hour_Avg_Traffic": 251.08,
+    "Traffic_Change_Percent": -29.63
+  },
+  "Market Area_1_1": {
+    "Previous_Hour_Traffic": 338.0,
+    "Rolling_3_Hour_Avg_Traffic": 269.25,
+    "Traffic_Change_Percent": -18.44
+  },
+  "Market Area_2_0": {
+    "Previous_Hour_Traffic": 242.0,
+    "Rolling_3_Hour_Avg_Traffic": 249.25,
+    "Traffic_Change_Percent": -30.08
+  },
+  "Market Area_2_1": {
+    "Previous_Hour_Traffic": 251.5,
+    "Rolling_3_Hour_Avg_Traffic": 264.16499999999996,
+    "Traffic_Change_Percent": -5.66
+  },
+  "Market Area_3_0": {
+    "Previous_Hour_Traffic": 243.0,
+    "Rolling_3_Hour_Avg_Traffic": 246.17,
+    "Traffic_Change_Percent": -20.16
+  },
+  "Market Area_3_1": {
+    "Previous_Hour_Traffic": 270.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.67,
+    "Traffic_Change_Percent": -11.25
+  },
+  "Market Area_4_0": {
+    "Previous_Hour_Traffic": 228.5,
+    "Rolling_3_Hour_Avg_Traffic": 241.33499999999998,
+    "Traffic_Change_Percent": -15.73
+  },
+  "Market Area_4_1": {
+    "Previous_Hour_Traffic": 268.5,
+    "Rolling_3_Hour_Avg_Traffic": 272.545,
+    "Traffic_Change_Percent": -7.4350000000000005
+  },
+  "Market Area_5_0": {
+    "Previous_Hour_Traffic": 222.0,
+    "Rolling_3_Hour_Avg_Traffic": 241.08,
+    "Traffic_Change_Percent": -16.32
+  },
+  "Market Area_5_1": {
+    "Previous_Hour_Traffic": 253.0,
+    "Rolling_3_Hour_Avg_Traffic": 262.08,
+    "Traffic_Change_Percent": -2.69
+  },
+  "Market Area_6_0": {
+    "Previous_Hour_Traffic": 199.0,
+    "Rolling_3_Hour_Avg_Traffic": 239.25,
+    "Traffic_Change_Percent": -5.53
+  },
+  "Market Area_6_1": {
+    "Previous_Hour_Traffic": 265.0,
+    "Rolling_3_Hour_Avg_Traffic": 270.83,
+    "Traffic_Change_Percent": -7.87
+  },
+  "Market Area_7_0": {
+    "Previous_Hour_Traffic": 202.0,
+    "Rolling_3_Hour_Avg_Traffic": 235.58,
+    "Traffic_Change_Percent": 72.73
+  },
+  "Market Area_7_1": {
+    "Previous_Hour_Traffic": 236.0,
+    "Rolling_3_Hour_Avg_Traffic": 273.67,
+    "Traffic_Change_Percent": 61.42
+  },
+  "Market Area_8_0": {
+    "Previous_Hour_Traffic": 192.5,
+    "Rolling_3_Hour_Avg_Traffic": 240.045,
+    "Traffic_Change_Percent": 88.185
+  },
+  "Market Area_8_1": {
+    "Previous_Hour_Traffic": 245.0,
+    "Rolling_3_Hour_Avg_Traffic": 275.08,
+    "Traffic_Change_Percent": 64.57
+  },
+  "Market Area_9_0": {
+    "Previous_Hour_Traffic": 198.0,
+    "Rolling_3_Hour_Avg_Traffic": 246.08,
+    "Traffic_Change_Percent": 73.31
+  },
+  "Market Area_9_1": {
+    "Previous_Hour_Traffic": 253.0,
+    "Rolling_3_Hour_Avg_Traffic": 278.045,
+    "Traffic_Change_Percent": 61.705
+  },
+  "Market Area_10_0": {
+    "Previous_Hour_Traffic": 208.0,
+    "Rolling_3_Hour_Avg_Traffic": 253.25,
+    "Traffic_Change_Percent": 69.82
+  },
+  "Market Area_10_1": {
+    "Previous_Hour_Traffic": 272.0,
+    "Rolling_3_Hour_Avg_Traffic": 281.75,
+    "Traffic_Change_Percent": 44.41
+  },
+  "Market Area_11_0": {
+    "Previous_Hour_Traffic": 222.0,
+    "Rolling_3_Hour_Avg_Traffic": 251.79000000000002,
+    "Traffic_Change_Percent": -12.344999999999999
+  },
+  "Market Area_11_1": {
+    "Previous_Hour_Traffic": 283.5,
+    "Rolling_3_Hour_Avg_Traffic": 287.08,
+    "Traffic_Change_Percent": -8.835
+  },
+  "Market Area_12_0": {
+    "Previous_Hour_Traffic": 242.5,
+    "Rolling_3_Hour_Avg_Traffic": 249.66500000000002,
+    "Traffic_Change_Percent": -24.695
+  },
+  "Market Area_12_1": {
+    "Previous_Hour_Traffic": 282.0,
+    "Rolling_3_Hour_Avg_Traffic": 282.92,
+    "Traffic_Change_Percent": -13.41
+  },
+  "Market Area_13_0": {
+    "Previous_Hour_Traffic": 278.5,
+    "Rolling_3_Hour_Avg_Traffic": 245.455,
+    "Traffic_Change_Percent": -30.755000000000003
+  },
+  "Market Area_13_1": {
+    "Previous_Hour_Traffic": 326.0,
+    "Rolling_3_Hour_Avg_Traffic": 279.58,
+    "Traffic_Change_Percent": -22.31
+  },
+  "Market Area_14_0": {
+    "Previous_Hour_Traffic": 269.0,
+    "Rolling_3_Hour_Avg_Traffic": 238.25,
+    "Traffic_Change_Percent": -26.490000000000002
+  },
+  "Market Area_14_1": {
+    "Previous_Hour_Traffic": 318.5,
+    "Rolling_3_Hour_Avg_Traffic": 279.67,
+    "Traffic_Change_Percent": -20.975
+  },
+  "Market Area_15_0": {
+    "Previous_Hour_Traffic": 259.0,
+    "Rolling_3_Hour_Avg_Traffic": 234.75,
+    "Traffic_Change_Percent": -28.77
+  },
+  "Market Area_15_1": {
+    "Previous_Hour_Traffic": 320.0,
+    "Rolling_3_Hour_Avg_Traffic": 286.42,
+    "Traffic_Change_Percent": -22.76
+  },
+  "Market Area_16_0": {
+    "Previous_Hour_Traffic": 232.0,
+    "Rolling_3_Hour_Avg_Traffic": 231.08,
+    "Traffic_Change_Percent": -24.34
+  },
+  "Market Area_16_1": {
+    "Previous_Hour_Traffic": 300.0,
+    "Rolling_3_Hour_Avg_Traffic": 287.125,
+    "Traffic_Change_Percent": -13.809999999999999
+  },
+  "Market Area_17_0": {
+    "Previous_Hour_Traffic": 230.5,
+    "Rolling_3_Hour_Avg_Traffic": 238.79000000000002,
+    "Traffic_Change_Percent": 41.515
+  },
+  "Market Area_17_1": {
+    "Previous_Hour_Traffic": 307.0,
+    "Rolling_3_Hour_Avg_Traffic": 289.17,
+    "Traffic_Change_Percent": 23.56
+  },
+  "Market Area_18_0": {
+    "Previous_Hour_Traffic": 222.5,
+    "Rolling_3_Hour_Avg_Traffic": 239.70999999999998,
+    "Traffic_Change_Percent": 53.97
+  },
+  "Market Area_18_1": {
+    "Previous_Hour_Traffic": 265.0,
+    "Rolling_3_Hour_Avg_Traffic": 280.92,
+    "Traffic_Change_Percent": 44.49
+  },
+  "Market Area_19_0": {
+    "Previous_Hour_Traffic": 199.0,
+    "Rolling_3_Hour_Avg_Traffic": 245.75,
+    "Traffic_Change_Percent": 70.66499999999999
+  },
+  "Market Area_19_1": {
+    "Previous_Hour_Traffic": 270.0,
+    "Rolling_3_Hour_Avg_Traffic": 291.96000000000004,
+    "Traffic_Change_Percent": 40.33
+  },
+  "Market Area_20_0": {
+    "Previous_Hour_Traffic": 221.0,
+    "Rolling_3_Hour_Avg_Traffic": 249.41500000000002,
+    "Traffic_Change_Percent": 50.185
+  },
+  "Market Area_20_1": {
+    "Previous_Hour_Traffic": 276.0,
+    "Rolling_3_Hour_Avg_Traffic": 302.045,
+    "Traffic_Change_Percent": 49.370000000000005
+  },
+  "Market Area_21_0": {
+    "Previous_Hour_Traffic": 223.0,
+    "Rolling_3_Hour_Avg_Traffic": 253.955,
+    "Traffic_Change_Percent": -18.784999999999997
+  },
+  "Market Area_21_1": {
+    "Previous_Hour_Traffic": 269.0,
+    "Rolling_3_Hour_Avg_Traffic": 304.5,
+    "Traffic_Change_Percent": -14.19
+  },
+  "Market Area_22_0": {
+    "Previous_Hour_Traffic": 245.0,
+    "Rolling_3_Hour_Avg_Traffic": 249.42,
+    "Traffic_Change_Percent": -20.74
+  },
+  "Market Area_22_1": {
+    "Previous_Hour_Traffic": 322.0,
+    "Rolling_3_Hour_Avg_Traffic": 306.875,
+    "Traffic_Change_Percent": -21.895
+  },
+  "Market Area_23_0": {
+    "Previous_Hour_Traffic": 282.5,
+    "Rolling_3_Hour_Avg_Traffic": 250.41500000000002,
+    "Traffic_Change_Percent": -34.480000000000004
+  },
+  "Market Area_23_1": {
+    "Previous_Hour_Traffic": 339.0,
+    "Rolling_3_Hour_Avg_Traffic": 293.58,
+    "Traffic_Change_Percent": -28.07
+  },
+  "Railway Station_0_0": {
+    "Previous_Hour_Traffic": 351.0,
+    "Rolling_3_Hour_Avg_Traffic": 342.5,
+    "Traffic_Change_Percent": -28.39
+  },
+  "Railway Station_0_1": {
+    "Previous_Hour_Traffic": 429.5,
+    "Rolling_3_Hour_Avg_Traffic": 365.71000000000004,
+    "Traffic_Change_Percent": -20.450000000000003
+  },
+  "Railway Station_1_0": {
+    "Previous_Hour_Traffic": 357.0,
+    "Rolling_3_Hour_Avg_Traffic": 348.25,
+    "Traffic_Change_Percent": -31.84
+  },
+  "Railway Station_1_1": {
+    "Previous_Hour_Traffic": 395.5,
+    "Rolling_3_Hour_Avg_Traffic": 371.625,
+    "Traffic_Change_Percent": -13.49
+  },
+  "Railway Station_2_0": {
+    "Previous_Hour_Traffic": 338.0,
+    "Rolling_3_Hour_Avg_Traffic": 335.25,
+    "Traffic_Change_Percent": -30.18
+  },
+  "Railway Station_2_1": {
+    "Previous_Hour_Traffic": 413.0,
+    "Rolling_3_Hour_Avg_Traffic": 372.795,
+    "Traffic_Change_Percent": -24.71
+  },
+  "Railway Station_3_0": {
+    "Previous_Hour_Traffic": 333.5,
+    "Rolling_3_Hour_Avg_Traffic": 342.41499999999996,
+    "Traffic_Change_Percent": -26.905
+  },
+  "Railway Station_3_1": {
+    "Previous_Hour_Traffic": 393.0,
+    "Rolling_3_Hour_Avg_Traffic": 373.33,
+    "Traffic_Change_Percent": -9.29
+  },
+  "Railway Station_4_0": {
+    "Previous_Hour_Traffic": 297.0,
+    "Rolling_3_Hour_Avg_Traffic": 334.66499999999996,
+    "Traffic_Change_Percent": -16.585
+  },
+  "Railway Station_4_1": {
+    "Previous_Hour_Traffic": 337.0,
+    "Rolling_3_Hour_Avg_Traffic": 363.92,
+    "Traffic_Change_Percent": -2.5
+  },
+  "Railway Station_5_0": {
+    "Previous_Hour_Traffic": 293.0,
+    "Rolling_3_Hour_Avg_Traffic": 329.58,
+    "Traffic_Change_Percent": -12.5
+  },
+  "Railway Station_5_1": {
+    "Previous_Hour_Traffic": 325.0,
+    "Rolling_3_Hour_Avg_Traffic": 360.58,
+    "Traffic_Change_Percent": -1.39
+  },
+  "Railway Station_6_0": {
+    "Previous_Hour_Traffic": 272.0,
+    "Rolling_3_Hour_Avg_Traffic": 321.33500000000004,
+    "Traffic_Change_Percent": -7.725
+  },
+  "Railway Station_6_1": {
+    "Previous_Hour_Traffic": 332.0,
+    "Rolling_3_Hour_Avg_Traffic": 353.125,
+    "Traffic_Change_Percent": 0.62
+  },
+  "Railway Station_7_0": {
+    "Previous_Hour_Traffic": 259.0,
+    "Rolling_3_Hour_Avg_Traffic": 320.5,
+    "Traffic_Change_Percent": 70.37
+  },
+  "Railway Station_7_1": {
+    "Previous_Hour_Traffic": 348.0,
+    "Rolling_3_Hour_Avg_Traffic": 362.205,
+    "Traffic_Change_Percent": 57.269999999999996
+  },
+  "Railway Station_8_0": {
+    "Previous_Hour_Traffic": 280.0,
+    "Rolling_3_Hour_Avg_Traffic": 329.58,
+    "Traffic_Change_Percent": 67.89
+  },
+  "Railway Station_8_1": {
+    "Previous_Hour_Traffic": 344.0,
+    "Rolling_3_Hour_Avg_Traffic": 368.58,
+    "Traffic_Change_Percent": 58.57
+  },
+  "Railway Station_9_0": {
+    "Previous_Hour_Traffic": 269.0,
+    "Rolling_3_Hour_Avg_Traffic": 337.0,
+    "Traffic_Change_Percent": 74.92
+  },
+  "Railway Station_9_1": {
+    "Previous_Hour_Traffic": 321.0,
+    "Rolling_3_Hour_Avg_Traffic": 374.67,
+    "Traffic_Change_Percent": 60.37
+  },
+  "Railway Station_10_0": {
+    "Previous_Hour_Traffic": 277.0,
+    "Rolling_3_Hour_Avg_Traffic": 341.795,
+    "Traffic_Change_Percent": 70.565
+  },
+  "Railway Station_10_1": {
+    "Previous_Hour_Traffic": 349.0,
+    "Rolling_3_Hour_Avg_Traffic": 399.03999999999996,
+    "Traffic_Change_Percent": 54.254999999999995
+  },
+  "Railway Station_11_0": {
+    "Previous_Hour_Traffic": 285.0,
+    "Rolling_3_Hour_Avg_Traffic": 338.53999999999996,
+    "Traffic_Change_Percent": -16.465
+  },
+  "Railway Station_11_1": {
+    "Previous_Hour_Traffic": 346.0,
+    "Rolling_3_Hour_Avg_Traffic": 385.08,
+    "Traffic_Change_Percent": -3.8
+  },
+  "Railway Station_12_0": {
+    "Previous_Hour_Traffic": 325.0,
+    "Rolling_3_Hour_Avg_Traffic": 336.83,
+    "Traffic_Change_Percent": -24.22
+  },
+  "Railway Station_12_1": {
+    "Previous_Hour_Traffic": 357.0,
+    "Rolling_3_Hour_Avg_Traffic": 392.75,
+    "Traffic_Change_Percent": -14.370000000000001
+  },
+  "Railway Station_13_0": {
+    "Previous_Hour_Traffic": 354.0,
+    "Rolling_3_Hour_Avg_Traffic": 334.5,
+    "Traffic_Change_Percent": -30.43
+  },
+  "Railway Station_13_1": {
+    "Previous_Hour_Traffic": 365.0,
+    "Rolling_3_Hour_Avg_Traffic": 387.625,
+    "Traffic_Change_Percent": -14.440000000000001
+  },
+  "Railway Station_14_0": {
+    "Previous_Hour_Traffic": 375.0,
+    "Rolling_3_Hour_Avg_Traffic": 326.625,
+    "Traffic_Change_Percent": -29.475
+  },
+  "Railway Station_14_1": {
+    "Previous_Hour_Traffic": 498.0,
+    "Rolling_3_Hour_Avg_Traffic": 390.92,
+    "Traffic_Change_Percent": -28.86
+  },
+  "Railway Station_15_0": {
+    "Previous_Hour_Traffic": 314.5,
+    "Rolling_3_Hour_Avg_Traffic": 320.795,
+    "Traffic_Change_Percent": -22.61
+  },
+  "Railway Station_15_1": {
+    "Previous_Hour_Traffic": 411.5,
+    "Rolling_3_Hour_Avg_Traffic": 382.795,
+    "Traffic_Change_Percent": -23.625
+  },
+  "Railway Station_16_0": {
+    "Previous_Hour_Traffic": 304.5,
+    "Rolling_3_Hour_Avg_Traffic": 320.58500000000004,
+    "Traffic_Change_Percent": -26.255000000000003
+  },
+  "Railway Station_16_1": {
+    "Previous_Hour_Traffic": 431.0,
+    "Rolling_3_Hour_Avg_Traffic": 381.92,
+    "Traffic_Change_Percent": -23.72
+  },
+  "Railway Station_17_0": {
+    "Previous_Hour_Traffic": 300.5,
+    "Rolling_3_Hour_Avg_Traffic": 316.33500000000004,
+    "Traffic_Change_Percent": 51.474999999999994
+  },
+  "Railway Station_17_1": {
+    "Previous_Hour_Traffic": 369.0,
+    "Rolling_3_Hour_Avg_Traffic": 376.5,
+    "Traffic_Change_Percent": 36.93
+  },
+  "Railway Station_18_0": {
+    "Previous_Hour_Traffic": 290.0,
+    "Rolling_3_Hour_Avg_Traffic": 327.91499999999996,
+    "Traffic_Change_Percent": 59.235
+  },
+  "Railway Station_18_1": {
+    "Previous_Hour_Traffic": 357.0,
+    "Rolling_3_Hour_Avg_Traffic": 393.25,
+    "Traffic_Change_Percent": 50.0
+  },
+  "Railway Station_19_0": {
+    "Previous_Hour_Traffic": 288.0,
+    "Rolling_3_Hour_Avg_Traffic": 333.875,
+    "Traffic_Change_Percent": 61.83
+  },
+  "Railway Station_19_1": {
+    "Previous_Hour_Traffic": 351.0,
+    "Rolling_3_Hour_Avg_Traffic": 395.33,
+    "Traffic_Change_Percent": 49.13
+  },
+  "Railway Station_20_0": {
+    "Previous_Hour_Traffic": 269.0,
+    "Rolling_3_Hour_Avg_Traffic": 339.0,
+    "Traffic_Change_Percent": 70.64
+  },
+  "Railway Station_20_1": {
+    "Previous_Hour_Traffic": 385.0,
+    "Rolling_3_Hour_Avg_Traffic": 405.375,
+    "Traffic_Change_Percent": 37.695
+  },
+  "Railway Station_21_0": {
+    "Previous_Hour_Traffic": 289.0,
+    "Rolling_3_Hour_Avg_Traffic": 345.78999999999996,
+    "Traffic_Change_Percent": -12.6
+  },
+  "Railway Station_21_1": {
+    "Previous_Hour_Traffic": 394.0,
+    "Rolling_3_Hour_Avg_Traffic": 414.75,
+    "Traffic_Change_Percent": -18.44
+  },
+  "Railway Station_22_0": {
+    "Previous_Hour_Traffic": 331.0,
+    "Rolling_3_Hour_Avg_Traffic": 342.58,
+    "Traffic_Change_Percent": -29.03
+  },
+  "Railway Station_22_1": {
+    "Previous_Hour_Traffic": 451.0,
+    "Rolling_3_Hour_Avg_Traffic": 410.17,
+    "Traffic_Change_Percent": -26.92
+  },
+  "Railway Station_23_0": {
+    "Previous_Hour_Traffic": 358.0,
+    "Rolling_3_Hour_Avg_Traffic": 337.25,
+    "Traffic_Change_Percent": -29.76
+  },
+  "Railway Station_23_1": {
+    "Previous_Hour_Traffic": 389.0,
+    "Rolling_3_Hour_Avg_Traffic": 405.0,
+    "Traffic_Change_Percent": -20.005000000000003
+  },
+  "Tech Park_0_0": {
+    "Previous_Hour_Traffic": 286.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.25,
+    "Traffic_Change_Percent": -33.28
+  },
+  "Tech Park_0_1": {
+    "Previous_Hour_Traffic": 316.0,
+    "Rolling_3_Hour_Avg_Traffic": 281.67,
+    "Traffic_Change_Percent": -15.51
+  },
+  "Tech Park_1_0": {
+    "Previous_Hour_Traffic": 293.0,
+    "Rolling_3_Hour_Avg_Traffic": 266.83500000000004,
+    "Traffic_Change_Percent": -28.265
+  },
+  "Tech Park_1_1": {
+    "Previous_Hour_Traffic": 287.0,
+    "Rolling_3_Hour_Avg_Traffic": 280.08,
+    "Traffic_Change_Percent": -7.34
+  },
+  "Tech Park_2_0": {
+    "Previous_Hour_Traffic": 283.0,
+    "Rolling_3_Hour_Avg_Traffic": 265.0,
+    "Traffic_Change_Percent": -32.74
+  },
+  "Tech Park_2_1": {
+    "Previous_Hour_Traffic": 274.5,
+    "Rolling_3_Hour_Avg_Traffic": 276.53999999999996,
+    "Traffic_Change_Percent": -3.3449999999999998
+  },
+  "Tech Park_3_0": {
+    "Previous_Hour_Traffic": 239.0,
+    "Rolling_3_Hour_Avg_Traffic": 255.375,
+    "Traffic_Change_Percent": -24.08
+  },
+  "Tech Park_3_1": {
+    "Previous_Hour_Traffic": 288.5,
+    "Rolling_3_Hour_Avg_Traffic": 277.83500000000004,
+    "Traffic_Change_Percent": -7.800000000000001
+  },
+  "Tech Park_4_0": {
+    "Previous_Hour_Traffic": 232.5,
+    "Rolling_3_Hour_Avg_Traffic": 256.25,
+    "Traffic_Change_Percent": -15.395
+  },
+  "Tech Park_4_1": {
+    "Previous_Hour_Traffic": 270.5,
+    "Rolling_3_Hour_Avg_Traffic": 280.66499999999996,
+    "Traffic_Change_Percent": -11.76
+  },
+  "Tech Park_5_0": {
+    "Previous_Hour_Traffic": 219.0,
+    "Rolling_3_Hour_Avg_Traffic": 254.08,
+    "Traffic_Change_Percent": -12.5
+  },
+  "Tech Park_5_1": {
+    "Previous_Hour_Traffic": 282.5,
+    "Rolling_3_Hour_Avg_Traffic": 287.91499999999996,
+    "Traffic_Change_Percent": -14.29
+  },
+  "Tech Park_6_0": {
+    "Previous_Hour_Traffic": 220.0,
+    "Rolling_3_Hour_Avg_Traffic": 247.67,
+    "Traffic_Change_Percent": -9.09
+  },
+  "Tech Park_6_1": {
+    "Previous_Hour_Traffic": 275.5,
+    "Rolling_3_Hour_Avg_Traffic": 277.58,
+    "Traffic_Change_Percent": -8.305
+  },
+  "Tech Park_7_0": {
+    "Previous_Hour_Traffic": 209.0,
+    "Rolling_3_Hour_Avg_Traffic": 248.25,
+    "Traffic_Change_Percent": 74.6
+  },
+  "Tech Park_7_1": {
+    "Previous_Hour_Traffic": 257.0,
+    "Rolling_3_Hour_Avg_Traffic": 284.75,
+    "Traffic_Change_Percent": 60.92
+  },
+  "Tech Park_8_0": {
+    "Previous_Hour_Traffic": 213.0,
+    "Rolling_3_Hour_Avg_Traffic": 256.75,
+    "Traffic_Change_Percent": 67.50999999999999
+  },
+  "Tech Park_8_1": {
+    "Previous_Hour_Traffic": 262.5,
+    "Rolling_3_Hour_Avg_Traffic": 289.41499999999996,
+    "Traffic_Change_Percent": 66.28
+  },
+  "Tech Park_9_0": {
+    "Previous_Hour_Traffic": 218.0,
+    "Rolling_3_Hour_Avg_Traffic": 258.96000000000004,
+    "Traffic_Change_Percent": 68.995
+  },
+  "Tech Park_9_1": {
+    "Previous_Hour_Traffic": 257.0,
+    "Rolling_3_Hour_Avg_Traffic": 301.17,
+    "Traffic_Change_Percent": 58.57
+  },
+  "Tech Park_10_0": {
+    "Previous_Hour_Traffic": 222.0,
+    "Rolling_3_Hour_Avg_Traffic": 266.5,
+    "Traffic_Change_Percent": 60.53
+  },
+  "Tech Park_10_1": {
+    "Previous_Hour_Traffic": 240.5,
+    "Rolling_3_Hour_Avg_Traffic": 291.625,
+    "Traffic_Change_Percent": 71.245
+  },
+  "Tech Park_11_0": {
+    "Previous_Hour_Traffic": 239.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.17,
+    "Traffic_Change_Percent": -14.91
+  },
+  "Tech Park_11_1": {
+    "Previous_Hour_Traffic": 281.0,
+    "Rolling_3_Hour_Avg_Traffic": 309.545,
+    "Traffic_Change_Percent": -8.455
+  },
+  "Tech Park_12_0": {
+    "Previous_Hour_Traffic": 250.0,
+    "Rolling_3_Hour_Avg_Traffic": 267.17,
+    "Traffic_Change_Percent": -24.21
+  },
+  "Tech Park_12_1": {
+    "Previous_Hour_Traffic": 302.0,
+    "Rolling_3_Hour_Avg_Traffic": 302.455,
+    "Traffic_Change_Percent": -17.354999999999997
+  },
+  "Tech Park_13_0": {
+    "Previous_Hour_Traffic": 284.5,
+    "Rolling_3_Hour_Avg_Traffic": 262.875,
+    "Traffic_Change_Percent": -26.345
+  },
+  "Tech Park_13_1": {
+    "Previous_Hour_Traffic": 305.0,
+    "Rolling_3_Hour_Avg_Traffic": 296.17,
+    "Traffic_Change_Percent": -17.76
+  },
+  "Tech Park_14_0": {
+    "Previous_Hour_Traffic": 296.0,
+    "Rolling_3_Hour_Avg_Traffic": 260.42,
+    "Traffic_Change_Percent": -33.98
+  },
+  "Tech Park_14_1": {
+    "Previous_Hour_Traffic": 351.0,
+    "Rolling_3_Hour_Avg_Traffic": 295.75,
+    "Traffic_Change_Percent": -19.48
+  },
+  "Tech Park_15_0": {
+    "Previous_Hour_Traffic": 264.0,
+    "Rolling_3_Hour_Avg_Traffic": 258.0,
+    "Traffic_Change_Percent": -25.91
+  },
+  "Tech Park_15_1": {
+    "Previous_Hour_Traffic": 377.0,
+    "Rolling_3_Hour_Avg_Traffic": 297.75,
+    "Traffic_Change_Percent": -33.85
+  },
+  "Tech Park_16_0": {
+    "Previous_Hour_Traffic": 262.0,
+    "Rolling_3_Hour_Avg_Traffic": 254.0,
+    "Traffic_Change_Percent": -21.09
+  },
+  "Tech Park_16_1": {
+    "Previous_Hour_Traffic": 330.0,
+    "Rolling_3_Hour_Avg_Traffic": 288.83,
+    "Traffic_Change_Percent": -21.63
+  },
+  "Tech Park_17_0": {
+    "Previous_Hour_Traffic": 240.0,
+    "Rolling_3_Hour_Avg_Traffic": 248.58,
+    "Traffic_Change_Percent": 49.61
+  },
+  "Tech Park_17_1": {
+    "Previous_Hour_Traffic": 344.0,
+    "Rolling_3_Hour_Avg_Traffic": 304.67,
+    "Traffic_Change_Percent": 23.5
+  },
+  "Tech Park_18_0": {
+    "Previous_Hour_Traffic": 228.5,
+    "Rolling_3_Hour_Avg_Traffic": 253.0,
+    "Traffic_Change_Percent": 53.245000000000005
+  },
+  "Tech Park_18_1": {
+    "Previous_Hour_Traffic": 295.0,
+    "Rolling_3_Hour_Avg_Traffic": 300.83,
+    "Traffic_Change_Percent": 37.5
+  },
+  "Tech Park_19_0": {
+    "Previous_Hour_Traffic": 230.0,
+    "Rolling_3_Hour_Avg_Traffic": 264.33,
+    "Traffic_Change_Percent": 52.75
+  },
+  "Tech Park_19_1": {
+    "Previous_Hour_Traffic": 286.0,
+    "Rolling_3_Hour_Avg_Traffic": 315.58,
+    "Traffic_Change_Percent": 45.06
+  },
+  "Tech Park_20_0": {
+    "Previous_Hour_Traffic": 241.0,
+    "Rolling_3_Hour_Avg_Traffic": 268.08,
+    "Traffic_Change_Percent": 42.76
+  },
+  "Tech Park_20_1": {
+    "Previous_Hour_Traffic": 282.0,
+    "Rolling_3_Hour_Avg_Traffic": 319.0,
+    "Traffic_Change_Percent": 37.93
+  },
+  "Tech Park_21_0": {
+    "Previous_Hour_Traffic": 256.0,
+    "Rolling_3_Hour_Avg_Traffic": 269.42,
+    "Traffic_Change_Percent": -21.94
+  },
+  "Tech Park_21_1": {
+    "Previous_Hour_Traffic": 284.0,
+    "Rolling_3_Hour_Avg_Traffic": 315.0,
+    "Traffic_Change_Percent": -12.87
+  },
+  "Tech Park_22_0": {
+    "Previous_Hour_Traffic": 268.0,
+    "Rolling_3_Hour_Avg_Traffic": 264.83,
+    "Traffic_Change_Percent": -25.18
+  },
+  "Tech Park_22_1": {
+    "Previous_Hour_Traffic": 324.0,
+    "Rolling_3_Hour_Avg_Traffic": 319.125,
+    "Traffic_Change_Percent": -15.235
+  },
+  "Tech Park_23_0": {
+    "Previous_Hour_Traffic": 271.0,
+    "Rolling_3_Hour_Avg_Traffic": 265.92,
+    "Traffic_Change_Percent": -28.66
+  },
+  "Tech Park_23_1": {
+    "Previous_Hour_Traffic": 361.0,
+    "Rolling_3_Hour_Avg_Traffic": 315.08,
+    "Traffic_Change_Percent": -33.08
+  },
+  "Vignan University Gate_0_0": {
+    "Previous_Hour_Traffic": 181.0,
+    "Rolling_3_Hour_Avg_Traffic": 158.67,
+    "Traffic_Change_Percent": -35.56
+  },
+  "Vignan University Gate_0_1": {
+    "Previous_Hour_Traffic": 176.0,
+    "Rolling_3_Hour_Avg_Traffic": 170.75,
+    "Traffic_Change_Percent": -12.5
+  },
+  "Vignan University Gate_1_0": {
+    "Previous_Hour_Traffic": 175.5,
+    "Rolling_3_Hour_Avg_Traffic": 157.75,
+    "Traffic_Change_Percent": -30.54
+  },
+  "Vignan University Gate_1_1": {
+    "Previous_Hour_Traffic": 177.0,
+    "Rolling_3_Hour_Avg_Traffic": 167.375,
+    "Traffic_Change_Percent": -16.88
+  },
+  "Vignan University Gate_2_0": {
+    "Previous_Hour_Traffic": 167.0,
+    "Rolling_3_Hour_Avg_Traffic": 155.70999999999998,
+    "Traffic_Change_Percent": -28.79
+  },
+  "Vignan University Gate_2_1": {
+    "Previous_Hour_Traffic": 163.0,
+    "Rolling_3_Hour_Avg_Traffic": 163.455,
+    "Traffic_Change_Percent": -8.22
+  },
+  "Vignan University Gate_3_0": {
+    "Previous_Hour_Traffic": 155.0,
+    "Rolling_3_Hour_Avg_Traffic": 154.5,
+    "Traffic_Change_Percent": -22.54
+  },
+  "Vignan University Gate_3_1": {
+    "Previous_Hour_Traffic": 144.5,
+    "Rolling_3_Hour_Avg_Traffic": 167.70999999999998,
+    "Traffic_Change_Percent": -13.76
+  },
+  "Vignan University Gate_4_0": {
+    "Previous_Hour_Traffic": 148.0,
+    "Rolling_3_Hour_Avg_Traffic": 155.41500000000002,
+    "Traffic_Change_Percent": -13.465
+  },
+  "Vignan University Gate_4_1": {
+    "Previous_Hour_Traffic": 156.0,
+    "Rolling_3_Hour_Avg_Traffic": 163.67,
+    "Traffic_Change_Percent": -10.78
+  },
+  "Vignan University Gate_5_0": {
+    "Previous_Hour_Traffic": 141.5,
+    "Rolling_3_Hour_Avg_Traffic": 149.16500000000002,
+    "Traffic_Change_Percent": -19.465
+  },
+  "Vignan University Gate_5_1": {
+    "Previous_Hour_Traffic": 145.0,
+    "Rolling_3_Hour_Avg_Traffic": 161.875,
+    "Traffic_Change_Percent": 9.81
+  },
+  "Vignan University Gate_6_0": {
+    "Previous_Hour_Traffic": 129.5,
+    "Rolling_3_Hour_Avg_Traffic": 150.08499999999998,
+    "Traffic_Change_Percent": -17.615000000000002
+  },
+  "Vignan University Gate_6_1": {
+    "Previous_Hour_Traffic": 173.0,
+    "Rolling_3_Hour_Avg_Traffic": 161.5,
+    "Traffic_Change_Percent": -17.65
+  },
+  "Vignan University Gate_7_0": {
+    "Previous_Hour_Traffic": 120.0,
+    "Rolling_3_Hour_Avg_Traffic": 149.04000000000002,
+    "Traffic_Change_Percent": 73.19
+  },
+  "Vignan University Gate_7_1": {
+    "Previous_Hour_Traffic": 141.5,
+    "Rolling_3_Hour_Avg_Traffic": 157.75,
+    "Traffic_Change_Percent": 73.745
+  },
+  "Vignan University Gate_8_0": {
+    "Previous_Hour_Traffic": 130.0,
+    "Rolling_3_Hour_Avg_Traffic": 151.92,
+    "Traffic_Change_Percent": 65.87
+  },
+  "Vignan University Gate_8_1": {
+    "Previous_Hour_Traffic": 157.0,
+    "Rolling_3_Hour_Avg_Traffic": 168.33,
+    "Traffic_Change_Percent": 72.84
+  },
+  "Vignan University Gate_9_0": {
+    "Previous_Hour_Traffic": 121.0,
+    "Rolling_3_Hour_Avg_Traffic": 154.92,
+    "Traffic_Change_Percent": 59.63
+  },
+  "Vignan University Gate_9_1": {
+    "Previous_Hour_Traffic": 148.5,
+    "Rolling_3_Hour_Avg_Traffic": 166.33,
+    "Traffic_Change_Percent": 63.52
+  },
+  "Vignan University Gate_10_0": {
+    "Previous_Hour_Traffic": 134.0,
+    "Rolling_3_Hour_Avg_Traffic": 157.54000000000002,
+    "Traffic_Change_Percent": 65.215
+  },
+  "Vignan University Gate_10_1": {
+    "Previous_Hour_Traffic": 159.5,
+    "Rolling_3_Hour_Avg_Traffic": 180.0,
+    "Traffic_Change_Percent": 50.305
+  },
+  "Vignan University Gate_11_0": {
+    "Previous_Hour_Traffic": 128.0,
+    "Rolling_3_Hour_Avg_Traffic": 158.75,
+    "Traffic_Change_Percent": -15.14
+  },
+  "Vignan University Gate_11_1": {
+    "Previous_Hour_Traffic": 162.0,
+    "Rolling_3_Hour_Avg_Traffic": 175.67,
+    "Traffic_Change_Percent": -1.53
+  },
+  "Vignan University Gate_12_0": {
+    "Previous_Hour_Traffic": 155.0,
+    "Rolling_3_Hour_Avg_Traffic": 158.92,
+    "Traffic_Change_Percent": -23.04
+  },
+  "Vignan University Gate_12_1": {
+    "Previous_Hour_Traffic": 176.5,
+    "Rolling_3_Hour_Avg_Traffic": 171.58499999999998,
+    "Traffic_Change_Percent": -21.235
+  },
+  "Vignan University Gate_13_0": {
+    "Previous_Hour_Traffic": 162.0,
+    "Rolling_3_Hour_Avg_Traffic": 152.42,
+    "Traffic_Change_Percent": -25.0
+  },
+  "Vignan University Gate_13_1": {
+    "Previous_Hour_Traffic": 190.5,
+    "Rolling_3_Hour_Avg_Traffic": 174.705,
+    "Traffic_Change_Percent": -31.03
+  },
+  "Vignan University Gate_14_0": {
+    "Previous_Hour_Traffic": 172.0,
+    "Rolling_3_Hour_Avg_Traffic": 151.5,
+    "Traffic_Change_Percent": -32.835
+  },
+  "Vignan University Gate_14_1": {
+    "Previous_Hour_Traffic": 193.0,
+    "Rolling_3_Hour_Avg_Traffic": 171.75,
+    "Traffic_Change_Percent": -28.03
+  },
+  "Vignan University Gate_15_0": {
+    "Previous_Hour_Traffic": 156.0,
+    "Rolling_3_Hour_Avg_Traffic": 151.08,
+    "Traffic_Change_Percent": -24.53
+  },
+  "Vignan University Gate_15_1": {
+    "Previous_Hour_Traffic": 202.5,
+    "Rolling_3_Hour_Avg_Traffic": 173.66500000000002,
+    "Traffic_Change_Percent": -25.939999999999998
+  },
+  "Vignan University Gate_16_0": {
+    "Previous_Hour_Traffic": 155.5,
+    "Rolling_3_Hour_Avg_Traffic": 145.125,
+    "Traffic_Change_Percent": -27.295
+  },
+  "Vignan University Gate_16_1": {
+    "Previous_Hour_Traffic": 189.0,
+    "Rolling_3_Hour_Avg_Traffic": 172.25,
+    "Traffic_Change_Percent": -19.87
+  },
+  "Vignan University Gate_17_0": {
+    "Previous_Hour_Traffic": 150.0,
+    "Rolling_3_Hour_Avg_Traffic": 150.04000000000002,
+    "Traffic_Change_Percent": 35.05500000000001
+  },
+  "Vignan University Gate_17_1": {
+    "Previous_Hour_Traffic": 163.0,
+    "Rolling_3_Hour_Avg_Traffic": 172.17,
+    "Traffic_Change_Percent": 42.31
+  },
+  "Vignan University Gate_18_0": {
+    "Previous_Hour_Traffic": 134.0,
+    "Rolling_3_Hour_Avg_Traffic": 151.625,
+    "Traffic_Change_Percent": 61.89
+  },
+  "Vignan University Gate_18_1": {
+    "Previous_Hour_Traffic": 176.0,
+    "Rolling_3_Hour_Avg_Traffic": 182.33,
+    "Traffic_Change_Percent": 41.655
+  },
+  "Vignan University Gate_19_0": {
+    "Previous_Hour_Traffic": 133.0,
+    "Rolling_3_Hour_Avg_Traffic": 152.75,
+    "Traffic_Change_Percent": 63.36
+  },
+  "Vignan University Gate_19_1": {
+    "Previous_Hour_Traffic": 165.0,
+    "Rolling_3_Hour_Avg_Traffic": 177.25,
+    "Traffic_Change_Percent": 55.255
+  },
+  "Vignan University Gate_20_0": {
+    "Previous_Hour_Traffic": 137.0,
+    "Rolling_3_Hour_Avg_Traffic": 154.875,
+    "Traffic_Change_Percent": 52.105000000000004
+  },
+  "Vignan University Gate_20_1": {
+    "Previous_Hour_Traffic": 160.5,
+    "Rolling_3_Hour_Avg_Traffic": 183.92,
+    "Traffic_Change_Percent": 43.605000000000004
+  },
+  "Vignan University Gate_21_0": {
+    "Previous_Hour_Traffic": 145.0,
+    "Rolling_3_Hour_Avg_Traffic": 159.33,
+    "Traffic_Change_Percent": -19.71
+  },
+  "Vignan University Gate_21_1": {
+    "Previous_Hour_Traffic": 198.0,
+    "Rolling_3_Hour_Avg_Traffic": 193.17,
+    "Traffic_Change_Percent": -21.4
+  },
+  "Vignan University Gate_22_0": {
+    "Previous_Hour_Traffic": 164.5,
+    "Rolling_3_Hour_Avg_Traffic": 154.545,
+    "Traffic_Change_Percent": -26.395000000000003
+  },
+  "Vignan University Gate_22_1": {
+    "Previous_Hour_Traffic": 197.0,
+    "Rolling_3_Hour_Avg_Traffic": 192.04000000000002,
+    "Traffic_Change_Percent": -30.48
+  },
+  "Vignan University Gate_23_0": {
+    "Previous_Hour_Traffic": 166.0,
+    "Rolling_3_Hour_Avg_Traffic": 153.0,
+    "Traffic_Change_Percent": -29.73
+  },
+  "Vignan University Gate_23_1": {
+    "Previous_Hour_Traffic": 222.0,
+    "Rolling_3_Hour_Avg_Traffic": 186.20999999999998,
+    "Traffic_Change_Percent": -26.665
+  }
+}

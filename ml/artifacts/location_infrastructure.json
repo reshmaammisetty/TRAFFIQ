@@ -1,0 +1,37 @@
+{
+  "City Center": {
+    "Road_Type": "Urban",
+    "Lanes": 4,
+    "Road_Capacity_veh_hr": 1200
+  },
+  "Highway Exit": {
+    "Road_Type": "Highway",
+    "Lanes": 5,
+    "Road_Capacity_veh_hr": 1600
+  },
+  "MG Road": {
+    "Road_Type": "Urban",
+    "Lanes": 3,
+    "Road_Capacity_veh_hr": 950
+  },
+  "Market Area": {
+    "Road_Type": "Urban",
+    "Lanes": 3,
+    "Road_Capacity_veh_hr": 900
+  },
+  "Railway Station": {
+    "Road_Type": "Urban",
+    "Lanes": 3,
+    "Road_Capacity_veh_hr": 1100
+  },
+  "Tech Park": {
+    "Road_Type": "Urban",
+    "Lanes": 3,
+    "Road_Capacity_veh_hr": 1000
+  },
+  "Vignan University Gate": {
+    "Road_Type": "Urban",
+    "Lanes": 2,
+    "Road_Capacity_veh_hr": 700
+  }
+}
