@@ -1,5 +1,31 @@
+# Python
 .venv/
-
-data/uploads/
+venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Python cache/data
+data/cache/
+data/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
